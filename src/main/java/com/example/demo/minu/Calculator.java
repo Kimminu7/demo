@@ -5,5 +5,6 @@ public class Calculator {
         System.out.println("Calculator.main");
         System.out.println("Hello world!");
         System.out.println("Git");
+        System.out.println("no way");
     }
 }
