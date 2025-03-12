@@ -2,9 +2,7 @@ package com.example.demo.minu;
 
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println("Calculator.main");
-        System.out.println("Hello world!");
-        System.out.println("Git");
-        System.out.println("no way");
+        int num = 1;
+        System.out.println("num = " + num);
     }
 }
